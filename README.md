@@ -1,7 +1,7 @@
 # AnimSide
 
 A new Flutter project.
-
+ - `flutter clean`
 ## Getting Started
 
 This project is a starting point for a Flutter application.
